@@ -1,0 +1,100 @@
+1. User can login with valid credentials
+2. User cannot login with invalid password
+3. User cannot login with invalid email
+4. User sees error on empty login form
+5. User can logout successfully
+6. User session expires after logout
+7. User can sign up with valid details
+8. User cannot sign up with existing email
+9. User sees error on weak password during signup
+10. User receives verification email after signup
+11. User can reset password via email
+12. User cannot reset password with unregistered email
+13. User can update profile information
+14. User can upload profile picture
+15. User can remove profile picture
+16. User can change password from profile
+17. User cannot change password with wrong current password
+18. User can search for products
+19. User sees no results for invalid search
+20. User can filter search results by category
+21. User can sort search results by price
+22. User can view product details page
+23. User can add product to cart
+24. User can remove product from cart
+25. User can update product quantity in cart
+26. User sees correct total price in cart
+27. User can proceed to checkout
+28. User can enter shipping address at checkout
+29. User can select payment method
+30. User can place order successfully
+31. User receives order confirmation email
+32. User can view order history
+33. User can view order details
+34. User can cancel order before shipping
+35. User cannot cancel shipped order
+36. User can apply discount code at checkout
+37. User sees error for invalid discount code
+38. User can add product to wishlist
+39. User can remove product from wishlist
+40. User can view wishlist
+41. User can contact support via contact form
+42. User receives confirmation after submitting contact form
+43. User can subscribe to newsletter
+44. User can unsubscribe from newsletter
+45. User can view FAQ page
+46. User can view About Us page
+47. User can view Terms and Conditions page
+48. User can view Privacy Policy page
+49. User can change language from settings
+50. User can change theme (dark/light mode)
+51. User can enable two-factor authentication
+52. User can disable two-factor authentication
+53. User receives OTP for two-factor authentication
+54. User can resend OTP
+55. User cannot login with expired OTP
+56. User can view notifications
+57. User can mark notifications as read
+58. User can delete notifications
+59. User can view dashboard after login
+60. User is redirected to login page after session timeout
+61. User cannot access admin page without permission
+62. Admin can login to admin panel
+63. Admin can view user list
+64. Admin can block a user
+65. Admin can unblock a user
+66. Admin can delete a user
+67. Admin can add a new product
+68. Admin can edit product details
+69. Admin can delete a product
+70. Admin can view all orders
+71. Admin can update order status
+72. Admin can view sales reports
+73. User can rate a product
+74. User can write a product review
+75. User can edit their review
+76. User can delete their review
+77. User can view all reviews for a product
+78. User can share product on social media
+79. User can copy product link
+80. User can view recently viewed products
+81. User can clear recently viewed products
+82. User can save address for future orders
+83. User can delete saved address
+84. User can set default address
+85. User can view payment history
+86. User can download invoice
+87. User can request a refund
+88. User receives email on refund status
+89. User can report a bug
+90. User can suggest a feature
+91. User can view system status page
+92. User can view maintenance notification
+93. User can login with Google
+94. User can login with Facebook
+95. User can login with Apple ID
+96. User can link/unlink social accounts
+97. User can view loyalty points
+98. User can redeem loyalty points
+99. User can view referral code
+100. User can invite friends using referral code
