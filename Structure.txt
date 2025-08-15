@@ -1,0 +1,12 @@
+Playwright_project/
+│
+├── tests/
+│   └── example.spec.js
+│
+├── tests-examples/
+│   └── demo.spec.js
+│
+├── playwright.config.js
+├── package.json
+├── README.md
+├── .gitignore
